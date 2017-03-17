@@ -1,5 +1,5 @@
 # gym-manager
-Basic Gym Manager
+ A basic Gym Manager
 
 This app requires an Access database MetriCam SDK and ReportViewer to run. You will find the MetriCam and ReportViewer dll files in the release folder also.
 
